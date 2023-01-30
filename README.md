@@ -22,7 +22,7 @@ A Support Platform that helps Students to have everything they need at the same 
 
 ## Project Access
 
-[eduIO](https://edu-io.onrender.com/)
+[eduIO - DEMO](https://edu-io.onrender.com/)
 
 ## Applied Technologies
 
