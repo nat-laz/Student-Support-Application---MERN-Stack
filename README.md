@@ -1,10 +1,11 @@
 # EduIO - Student Support Application
 
+[eduIO - DEMO](https://edu-io.onrender.com/)
+
 ## Table of Content
 
 - [Project Description](#project-description)
 - [Features and Application Demo](#features-and-application-demo)
-- [Project Access](#project-access)
 - [Used Technologies](#used-technologies)
 - [Contributors](#contributors)
 - [Project Developer Team](#project-developer-team)
@@ -20,9 +21,6 @@ A Support Platform that helps Students to have everything they need at the same 
 - `Learning Support`: It brings together content from different platforms in order to offer students up-to-date information on the technology universe.
 - `Chat`: Chat with friends to exchange experiences, share knowledge and ask questions. A great opportunity to develop knowledge in partnership with other students.
 
-## Project Access
-
-[eduIO - DEMO](https://edu-io.onrender.com/)
 
 ## Applied Technologies
 
