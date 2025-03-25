@@ -1,20 +1,27 @@
-# EduIO - Student Support Application
+# EduI/O - Student Support Application
 
-[eduIO - DEMO](https://edu-io.onrender.com/)
+[eduI/O - DEMO](https://edu-io.onrender.com/)
+
+**EduI/O** - is a comprehensive student support application that helps Students to have everything they need at the same time and in the same place, making their daily lives easier.
+
+**Quick Login:** Use the following credentials for easy access –
+
+```markdown 
+Username(Email): quest@gmail.com
+
+Password: demo1234
+```
+
 
 ## Table of Content
 
-- [Project Description](#project-description)
 - [Features and Application Demo](#features-and-application-demo)
 - [Used Technologies](#used-technologies)
 - [Contributors](#contributors)
 - [Project Developer Team](#project-developer-team)
 
-## Project Description
 
-A Support Platform that helps Students to have everything they need at the same time and in the same place, making their daily lives easier.
-
-## :hammer: Features and Application Demo
+## Features and Application Demo
 
 - `Calendar`: A powerful tool that helps students keep all their appointments up to date and gathered in one place.
 - `Academia`: The place where students can share knowledge and clarify doubts in a practical and quick way.
